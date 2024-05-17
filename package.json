@@ -1,0 +1,39 @@
+{
+  "name": "is-iterable-empty",
+  "version": "1.0.0",
+  "description": "A simple utility to check if an Iterable is empty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openmooncommunity/is-iterable-empty.git"
+  },
+  "keywords": [
+    "iterable",
+    "empty",
+    "check",
+    "utility",
+    "array",
+    "list"
+  ],
+	"author": {
+		"name": "SpaceHub Studio",
+		"email": "support@spacehubnetwork.com",
+		"url": "https://spacehubnetwork.com"
+	},
+	"type": "module",
+	"exports": "./index.js",
+	"engines": {
+		"node": ">=12"
+	},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openmooncommunity/is-iterable-empty/issues"
+  },
+  "homepage": "https://github.com/openmooncommunity/is-iterable-empty/tree/main#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
